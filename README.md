@@ -242,7 +242,6 @@ This is an **academic prototype**. For production use, the following improvement
 **Tarun Chand**
 📧 chandtarun1234@gmail.com
 📍 Bhimtal, Uttarakhand, India
-🏫 Graphic Era Hill University
 
 ---
 
@@ -256,6 +255,5 @@ Licensed under **CC BY-NC-ND 4.0** — free to share with attribution, no commer
 
 ⭐ **If you found this project useful, give it a star!** ⭐
 
-*Made with ❤️ for modern, paperless education*
 
 </div>
