@@ -19,7 +19,7 @@
 
 A **full-stack web-based examination platform** built with PHP & MySQL that completely digitizes the examination process — from quiz creation to AI-generated result feedback. No paperwork. No manual grading. Just smart, fast, and efficient online testing.
 
-> 🏫 Built as a final-year project at **Graphic Era Hill University, Bhimtal, Uttarakhand, India**
+> 🏫 Built as a final-year project**
 
 ---
 
